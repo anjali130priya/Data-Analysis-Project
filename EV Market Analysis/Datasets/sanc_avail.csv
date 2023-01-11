@@ -1,0 +1,34 @@
+"state_ind","num_Sanc","charging_avail"
+"Jharkhand",NULL,22
+"Arunachal Pradesh",NULL,4
+"Tripura",NULL,3
+"Nagaland",NULL,2
+"Manipur",NULL,1
+"Goa",NULL,17
+"Leh",NULL,2
+"Punjab",NULL,41
+"Maharashtra",317,88
+"Tamil Nadu",281,76
+"Gujarat",278,87
+"Andhra Pradesh",266,65
+"Madhya Pradesh",235,167
+"Kerala",211,39
+"Uttar Pradesh",207,128
+"Rajasthan",205,174
+"Karnataka",172,100
+"West Bengal",141,71
+"Telangana",138,112
+"Delhi",72,66
+"Chandigarh",70,4
+"Haryana",50,114
+"Meghalaya",40,3
+"Bihar",37,26
+"Sikkim",29,NULL
+"Chhattisgarh",25,51
+"Jammu and Kashmir",25,3
+"Assam",20,19
+"Odisha",18,26
+"Uttarakhand",10,10
+"Himachal Pradesh",10,13
+"Puducherry",10,2
+"Andaman and Nicobar (Port Blair)",10,NULL
