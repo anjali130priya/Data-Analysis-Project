@@ -27,4 +27,5 @@ The project aims in analyzing the trend of EV market in India and also current c
 
 ### Data Visualisation  [*(Tableau)*](https://public.tableau.com/views/EVMarketanalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+![Story 1](https://user-images.githubusercontent.com/69565322/211725037-39c47da2-c37a-447c-beed-10ba2fab0c90.png)
 
