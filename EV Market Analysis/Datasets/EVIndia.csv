@@ -1,0 +1,13 @@
+Brand,Car,Style,Range (Km/Full Charge),Transmission,VehicleType,Price-min,Price-max,Capacity(seater),BootSpace(L)
+Tata,Tata Nexon EV,Compact SUV,312,Automatic,Electric,1399000,1740000,5,350
+Tata,Tata Tigor EV,Subcompact Sedan,306,Automatic,Electric,1249000,1364000,5,316
+Tata,Tata Nexon EV Max,Compact SUV,437,Automatic,Electric,1774000,1924000,5,350
+Mg,MG ZS EV,Compact SUV,419,Automatic,Electric,2199000,2588000,5,448
+Hyundai,Hyundai Kona Electric,Compact SUV,452,Automatic,Electric,2379000,2398000,5,332
+Jaguar,Jaguar I-Pace,Premium Midsize Sedan,470,Automatic,Electric,10600000,11200000,5,656
+Audi,Audi E-Tron GT,Premium Coupe,388,Automatic,Electric,18000000,18000000,5,405
+Byd,BYD E6,Subcompact MPV,415,Automatic,Electric,2915000,2915000,5,580
+Mercedez,Mercedes-Benz EQC,Compact SUV,471,Automatic,Electric,10000000,10000000,5,500
+Bmw,BMW iX,Premium Fullsize SUV,425,Automatic,Electric,11600000,11600000,5,500
+Porsche,Porsche Taycan,Premium Sports Sedan,374,Automatic,Electric,15000000,15000000,4,470
+Audi,Audi E-Tron,Compact SUV,400,Automatic,Electric,10100000,11900000,5,660
