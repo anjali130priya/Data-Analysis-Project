@@ -21,11 +21,11 @@ The project aims in analyzing the trend of EV market in India and also current c
 
 
 
-### [Cleaning and EDA using *(SQL)*] (https://github.com/anjali130priya/Data-Analysis-Project/blob/e62eced0f8a66bef4729b73875e25d7a0ba4a304/EV%20Market%20Analysis/SQL_cleaning_EDA/SQL%20EDA%20AND%20CLEANING.sql)
+### [Cleaning and EDA using *(SQL)*](https://github.com/anjali130priya/Data-Analysis-Project/blob/e62eced0f8a66bef4729b73875e25d7a0ba4a304/EV%20Market%20Analysis/SQL_cleaning_EDA/SQL%20EDA%20AND%20CLEANING.sql)
 
 
 
-### Story & Dashboards  [*(Tableau)*](https://public.tableau.com/views/EVMarketanalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+### Story & Dashboards  [*(Tableau) Link*](https://public.tableau.com/views/EVMarketanalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![Story 1](https://user-images.githubusercontent.com/69565322/211725037-39c47da2-c37a-447c-beed-10ba2fab0c90.png)
 
