@@ -27,5 +27,18 @@ The project aims in analyzing the trend of EV market in India and also current c
 
 ### Story & Dashboards  [*(Tableau) Link*](https://public.tableau.com/views/EVMarketanalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![Story 1](https://user-images.githubusercontent.com/69565322/211725037-39c47da2-c37a-447c-beed-10ba2fab0c90.png)
+
+
+![Story 1 (1)](https://user-images.githubusercontent.com/69565322/212524623-848bee77-130f-452c-a801-addf0ebf3a20.png)
+![Story 1 (2)](https://user-images.githubusercontent.com/69565322/212524637-843bbe52-9bac-456e-a52d-9f62a6c5096a.png)
+![Story 1 (3)](https://user-images.githubusercontent.com/69565322/212524638-e734f676-f70b-4fd5-9f23-c7c2e56c716e.png)
+
+
+![Story 1 (4)](https://user-images.githubusercontent.com/69565322/212524640-6b21a6a7-13c0-4dba-bbff-c123658afcfb.png)
+
+![Story 1 (5)](https://user-images.githubusercontent.com/69565322/212524642-f356f25f-f998-4621-a545-49d8f9883748.png)
+
+![Story 1 (6)](https://user-images.githubusercontent.com/69565322/212524645-e311ef3e-47b9-40ed-8bab-a0b21b219f53.png)
+![Story 1 (7)](https://user-images.githubusercontent.com/69565322/212524648-f332e7ae-dfec-4781-a423-1dc36ae43bc6.png)
+![Story 1 (8)](https://user-images.githubusercontent.com/69565322/212524653-e3c23dfa-ddd9-4a29-bf7c-4c004f212977.png)
 
