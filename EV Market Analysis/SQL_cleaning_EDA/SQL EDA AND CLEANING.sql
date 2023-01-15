@@ -47,6 +47,11 @@ insert into location_ev ("States", "Latitude" , "Longitude")
 values('Leh' , 34.152588, 77.577049 ) , 
 ('Puducherry' , 11.916064 , 79.812325 )
 
+-- MAINTAING CONSISTENCY IN STATES NAME BY UPDATING THE STRING WITH STANDARD NAMING. 
+update location_ev
+set "States" = replace("States" , 'Andaman and Nicobar Islands' , 
+                       'Andaman and Nicobar (Port Blair)')
+
 
 
 
